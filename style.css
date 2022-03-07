@@ -131,6 +131,11 @@ body {
     
 }
 
+a {
+    
+    color: rgb(100, 79, 8);
+}
+
 .textHeader {
     font-size: 1.4em;
     text-align: center;
