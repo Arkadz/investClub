@@ -32,6 +32,10 @@ body {
     z-index: 1;
 }
 
+.burger:hover {
+    cursor: pointer;
+}
+
 
 .logo {
     width: 100px;
